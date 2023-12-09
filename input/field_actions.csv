@@ -1,0 +1,1811 @@
+Field,Action,Processing Action,Number of Slashes
+accessibilityModule/amenities/0/description,Do Not Import,None,3
+accessibilityModule/amenities/0/id,Do Not Import,None,3
+accessibilityModule/amenities/0/isPresent,Do Not Import,None,3
+accessibilityModule/amenities/0/name,Do Not Import,None,3
+accessibilityModule/amenities/1/description,Do Not Import,None,3
+accessibilityModule/amenities/1/id,Do Not Import,None,3
+accessibilityModule/amenities/1/isPresent,Do Not Import,None,3
+accessibilityModule/amenities/1/name,Do Not Import,None,3
+accessibilityModule/amenities/2/description,Do Not Import,None,3
+accessibilityModule/amenities/2/id,Do Not Import,None,3
+accessibilityModule/amenities/2/isPresent,Do Not Import,None,3
+accessibilityModule/amenities/2/name,Do Not Import,None,3
+accessibilityModule/amenities/3/description,Do Not Import,None,3
+accessibilityModule/amenities/3/id,Do Not Import,None,3
+accessibilityModule/amenities/3/isPresent,Do Not Import,None,3
+accessibilityModule/amenities/3/name,Do Not Import,None,3
+accessibilityModule/amenities/4/description,Do Not Import,None,3
+accessibilityModule/amenities/4/id,Do Not Import,None,3
+accessibilityModule/amenities/4/isPresent,Do Not Import,None,3
+accessibilityModule/amenities/4/name,Do Not Import,None,3
+accessibilityModule/amenities/5/description,Do Not Import,None,3
+accessibilityModule/amenities/5/id,Do Not Import,None,3
+accessibilityModule/amenities/5/isPresent,Do Not Import,None,3
+accessibilityModule/amenities/5/name,Do Not Import,None,3
+accessibilityModule/amenities/6/description,Do Not Import,None,3
+accessibilityModule/amenities/6/id,Do Not Import,None,3
+accessibilityModule/amenities/6/isPresent,Do Not Import,None,3
+accessibilityModule/amenities/6/name,Do Not Import,None,3
+accessibilityModule/amenities/7/description,Do Not Import,None,3
+accessibilityModule/amenities/7/id,Do Not Import,None,3
+accessibilityModule/amenities/7/isPresent,Do Not Import,None,3
+accessibilityModule/amenities/7/name,Do Not Import,None,3
+accessibilityModule/amenities/8/description,Do Not Import,None,3
+accessibilityModule/amenities/8/id,Do Not Import,None,3
+accessibilityModule/amenities/8/isPresent,Do Not Import,None,3
+accessibilityModule/amenities/8/name,Do Not Import,None,3
+accessibilityModule/rootHighlights/0,Do Not Import,None,2
+accessibilityModule/rootHighlights/1,Do Not Import,None,2
+accessibilityModule/rootHighlights/2,Do Not Import,None,2
+accessibilityModule/seeAllSections/0/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/0/amenityIds/1,Do Not Import,None,4
+accessibilityModule/seeAllSections/0/amenityIds/2,Do Not Import,None,4
+accessibilityModule/seeAllSections/0/amenityIds/3,Do Not Import,None,4
+accessibilityModule/seeAllSections/0/amenityIds/4,Do Not Import,None,4
+accessibilityModule/seeAllSections/0/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/0/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/1/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/1/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/1/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/1/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/1/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/1/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/2/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/2/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/2/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/2/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/2/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/2/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/3/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/3/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/3/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/3/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/3/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/3/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/4/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/4/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/4/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/4/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/4/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/4/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/5/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/5/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/5/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/5/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/5/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/5/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/6/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/6/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/6/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/6/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/6/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/6/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/7/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/7/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/7/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/7/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/7/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/7/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/8/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/8/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/8/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/8/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/8/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/8/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/9/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/9/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/9/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/9/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/9/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/9/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/10/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/10/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/10/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/10/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/10/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/10/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/11/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/11/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/11/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/11/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/11/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/11/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/12/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/12/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/12/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/12/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/12/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/12/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/13/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/13/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/13/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/13/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/13/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/13/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/14/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/14/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/14/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/14/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/14/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/14/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/15/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/15/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/15/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/15/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/15/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/photos/15/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/0/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/0/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/1/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/1/amenityIds/1,Do Not Import,None,4
+accessibilityModule/seeAllSections/1/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/1/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/1/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/1/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/1/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/1/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/1/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/1/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/2/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/2/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/2/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/2/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/2/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/2/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/3/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/3/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/3/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/3/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/3/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/3/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/4/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/4/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/4/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/4/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/4/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/4/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/5/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/5/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/5/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/5/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/5/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/5/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/6/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/6/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/6/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/6/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/6/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/photos/6/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/1/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/1/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/2/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/2/amenityIds/1,Do Not Import,None,4
+accessibilityModule/seeAllSections/2/amenityIds/2,Do Not Import,None,4
+accessibilityModule/seeAllSections/2/amenityIds/3,Do Not Import,None,4
+accessibilityModule/seeAllSections/2/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/2/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/1/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/1/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/1/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/1/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/1/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/1/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/2/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/2/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/2/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/2/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/2/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/2/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/3/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/3/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/3/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/3/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/3/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/3/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/4/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/4/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/4/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/4/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/4/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/photos/4/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/2/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/2/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/3/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/3/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/3/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/3/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/3/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/3/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/3/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/3/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/3/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/3/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/4/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/4/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/4/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/4/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/4/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/4/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/4/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/4/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/4/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/4/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/5/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/5/amenityIds/1,Do Not Import,None,4
+accessibilityModule/seeAllSections/5/amenityIds/2,Do Not Import,None,4
+accessibilityModule/seeAllSections/5/amenityIds/3,Do Not Import,None,4
+accessibilityModule/seeAllSections/5/amenityIds/4,Do Not Import,None,4
+accessibilityModule/seeAllSections/5/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/5/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/1/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/1/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/1/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/1/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/1/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/1/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/2/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/2/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/2/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/2/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/2/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/2/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/3/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/3/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/3/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/3/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/3/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/3/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/4/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/4/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/4/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/4/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/4/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/4/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/5/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/5/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/5/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/5/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/5/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/5/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/6/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/6/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/6/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/6/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/6/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/6/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/7/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/7/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/7/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/7/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/7/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/7/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/8/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/8/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/8/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/8/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/8/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/8/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/9/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/9/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/9/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/9/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/9/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/9/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/10/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/10/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/10/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/10/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/10/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/photos/10/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/5/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/5/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/6/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/6/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/6/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/6/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/6/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/6/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/6/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/6/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/6/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/6/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/7/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/7/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/7/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/1/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/1/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/1/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/1/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/1/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/photos/1/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/7/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/7/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/8/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/8/amenityIds/1,Do Not Import,None,4
+accessibilityModule/seeAllSections/8/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/8/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/1/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/1/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/1/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/1/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/1/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/photos/1/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/8/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/8/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/9/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/9/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/9/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/9/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/9/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/9/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/9/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/9/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/9/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/9/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/10/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/10/amenityIds/1,Do Not Import,None,4
+accessibilityModule/seeAllSections/10/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/10/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/1/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/1/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/1/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/1/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/1/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/1/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/2/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/2/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/2/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/2/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/2/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/photos/2/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/10/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/10/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/11/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/11/amenityIds/1,Do Not Import,None,4
+accessibilityModule/seeAllSections/11/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/11/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/1/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/1/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/1/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/1/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/1/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/1/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/2/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/2/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/2/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/2/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/2/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/2/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/3/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/3/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/3/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/3/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/3/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/photos/3/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/11/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/11/title,Do Not Import,None,3
+accessibilityModule/seeAllSections/12/amenityIds/0,Do Not Import,None,4
+accessibilityModule/seeAllSections/12/amenityIds/1,Do Not Import,None,4
+accessibilityModule/seeAllSections/12/id,Do Not Import,None,3
+accessibilityModule/seeAllSections/12/photos/0/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/0/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/0/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/0/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/0/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/0/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/1/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/1/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/1/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/1/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/1/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/1/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/2/caption,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/2/id,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/2/largeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/2/thumbnailUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/2/xLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/photos/2/xxLargeUrl,Do Not Import,None,5
+accessibilityModule/seeAllSections/12/subtitle,Do Not Import,None,3
+accessibilityModule/seeAllSections/12/title,Do Not Import,None,3
+accessibilityModule/seeAllSummary,Do Not Import,None,1
+idStr,PRIMARY KEY,PRIMARY KEY,0
+additionalHosts/0/about,Table: additional_hosts,One:Many,2
+additionalHosts/0/firstName,Table: additional_hosts,One:Many,2
+additionalHosts/0/hasInclusionBadge,Table: additional_hosts,One:Many,2
+additionalHosts/0/hasProfilePic,Table: additional_hosts,One:Many,2
+additionalHosts/0/hostUrl,Table: additional_hosts,One:Many,2
+additionalHosts/0/id,Table: additional_hosts,One:Many,2
+additionalHosts/0/isSuperHost,Table: additional_hosts,One:Many,2
+additionalHosts/0/languages/0,Table: additional_hosts,One:Many,3
+additionalHosts/0/languages/1,Table: additional_hosts,One:Many,3
+additionalHosts/0/memberSince,Table: additional_hosts,One:Many,2
+additionalHosts/0/pictureUrl,Table: additional_hosts,One:Many,2
+additionalHosts/0/responseRate,Table: additional_hosts,One:Many,2
+additionalHosts/0/responseTime,Table: additional_hosts,One:Many,2
+additionalHosts/0/smartName,Table: additional_hosts,One:Many,2
+additionalHosts/0/thumbnailUrl,Table: additional_hosts,One:Many,2
+additionalHosts/1/about,Table: additional_hosts,One:Many,2
+additionalHosts/1/firstName,Table: additional_hosts,One:Many,2
+additionalHosts/1/hasInclusionBadge,Table: additional_hosts,One:Many,2
+additionalHosts/1/hasProfilePic,Table: additional_hosts,One:Many,2
+additionalHosts/1/hostUrl,Table: additional_hosts,One:Many,2
+additionalHosts/1/id,Table: additional_hosts,One:Many,2
+additionalHosts/1/isSuperHost,Table: additional_hosts,One:Many,2
+additionalHosts/1/languages/0,Table: additional_hosts,One:Many,3
+additionalHosts/1/memberSince,Table: additional_hosts,One:Many,2
+additionalHosts/1/pictureUrl,Table: additional_hosts,One:Many,2
+additionalHosts/1/responseRate,Table: additional_hosts,One:Many,2
+additionalHosts/1/responseTime,Table: additional_hosts,One:Many,2
+additionalHosts/1/smartName,Table: additional_hosts,One:Many,2
+additionalHosts/1/thumbnailUrl,Table: additional_hosts,One:Many,2
+additionalHosts/2/about,Table: additional_hosts,One:Many,2
+additionalHosts/2/firstName,Table: additional_hosts,One:Many,2
+additionalHosts/2/hasInclusionBadge,Table: additional_hosts,One:Many,2
+additionalHosts/2/hasProfilePic,Table: additional_hosts,One:Many,2
+additionalHosts/2/hostUrl,Table: additional_hosts,One:Many,2
+additionalHosts/2/id,Table: additional_hosts,One:Many,2
+additionalHosts/2/isSuperHost,Table: additional_hosts,One:Many,2
+additionalHosts/2/memberSince,Table: additional_hosts,One:Many,2
+additionalHosts/2/pictureUrl,Table: additional_hosts,One:Many,2
+additionalHosts/2/smartName,Table: additional_hosts,One:Many,2
+additionalHosts/2/thumbnailUrl,Table: additional_hosts,One:Many,2
+additionalHosts/3/about,Table: additional_hosts,One:Many,2
+additionalHosts/3/firstName,Table: additional_hosts,One:Many,2
+additionalHosts/3/hasInclusionBadge,Table: additional_hosts,One:Many,2
+additionalHosts/3/hasProfilePic,Table: additional_hosts,One:Many,2
+additionalHosts/3/hostUrl,Table: additional_hosts,One:Many,2
+additionalHosts/3/id,Table: additional_hosts,One:Many,2
+additionalHosts/3/isSuperHost,Table: additional_hosts,One:Many,2
+additionalHosts/3/memberSince,Table: additional_hosts,One:Many,2
+additionalHosts/3/pictureUrl,Table: additional_hosts,One:Many,2
+additionalHosts/3/smartName,Table: additional_hosts,One:Many,2
+additionalHosts/3/thumbnailUrl,Table: additional_hosts,One:Many,2
+seeAllAmenitySections/0/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/0/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/0/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/0/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/0/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/0/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/0/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/0/amenityIds/7,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/0/amenityIds/8,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/0/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/0/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/0/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/1/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/7,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/8,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/9,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/amenityIds/10,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/1/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/1/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/1/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/2/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/2/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/2/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/2/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/2/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/2/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/2/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/2/amenityIds/7,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/2/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/2/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/2/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/3/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/3/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/3/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/3/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/3/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/3/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/3/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/3/amenityIds/7,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/3/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/3/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/3/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/4/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/7,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/8,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/9,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/10,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/11,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/amenityIds/12,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/4/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/4/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/4/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/5/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/7,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/8,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/9,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/10,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/11,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/12,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/13,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/14,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/amenityIds/15,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/5/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/5/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/5/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/6/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/7,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/8,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/9,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/10,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/11,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/12,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/13,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/14,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/15,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/amenityIds/16,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/6/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/6/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/6/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/7/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/7,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/8,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/9,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/10,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/11,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/12,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/13,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/14,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/15,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/16,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/17,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/18,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/amenityIds/19,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/7/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/7/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/7/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/8/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/8/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/8/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/8/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/8/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/8/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/8/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/8/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/8/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/8/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/9/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/9/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/9/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/9/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/9/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/9/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/9/amenityIds/6,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/9/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/9/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/9/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/10/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/10/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/10/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/10/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/10/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/10/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/10/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/10/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/10/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/11/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/11/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/11/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/11/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/11/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/11/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/11/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/11/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/11/title,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/12/amenityIds/0,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/12/amenityIds/1,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/12/amenityIds/2,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/12/amenityIds/3,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/12/amenityIds/4,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/12/amenityIds/5,Table: all_amenity_sections,One:Many,3
+seeAllAmenitySections/12/id,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/12/subtitle,Table: all_amenity_sections,One:Many,2
+seeAllAmenitySections/12/title,Table: all_amenity_sections,One:Many,2
+categorizedPreviewAmenities/0/amenities,Table: categorized_preview_amenities,One:Many,2
+categorizedPreviewAmenities/0/category,Table: categorized_preview_amenities,One:Many,2
+categorizedPreviewAmenities/1/amenities,Table: categorized_preview_amenities,One:Many,2
+categorizedPreviewAmenities/1/category,Table: categorized_preview_amenities,One:Many,2
+guestControls/allowsChildren,Table: main,One:One,1
+guestControls/allowsEvents,Table: main,One:One,1
+guestControls/allowsInfants,Table: main,One:One,1
+guestControls/allowsNonChinaUsers,Table: main,One:One,1
+guestControls/allowsPets,Table: main,One:One,1
+guestControls/allowsSmoking,Table: main,One:One,1
+guestControls/personCapacity,Table: main,One:One,1
+highlights/0/headline,Table: highlights,One:Many,2
+highlights/0/icon,Table: highlights,One:Many,2
+highlights/0/message,Table: highlights,One:Many,2
+highlights/0/position,Table: highlights,One:Many,2
+highlights/0/type,Table: highlights,One:Many,2
+highlights/1/headline,Table: highlights,One:Many,2
+highlights/1/icon,Table: highlights,One:Many,2
+highlights/1/message,Table: highlights,One:Many,2
+highlights/1/position,Table: highlights,One:Many,2
+highlights/1/type,Table: highlights,One:Many,2
+highlights/2/headline,Table: highlights,One:Many,2
+highlights/2/icon,Table: highlights,One:Many,2
+highlights/2/message,Table: highlights,One:Many,2
+highlights/2/position,Table: highlights,One:Many,2
+highlights/2/type,Table: highlights,One:Many,2
+highlights/3/headline,Table: highlights,One:Many,2
+highlights/3/icon,Table: highlights,One:Many,2
+highlights/3/message,Table: highlights,One:Many,2
+highlights/3/position,Table: highlights,One:Many,2
+highlights/3/type,Table: highlights,One:Many,2
+hometourRooms/0/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/0/highlightsHometour/1,Table: home_tour_rooms,One:Many,3
+hometourRooms/0/highlightsHometour/2,Table: home_tour_rooms,One:Many,3
+hometourRooms/0/highlightsHometour/3,Table: home_tour_rooms,One:Many,3
+hometourRooms/0/highlightsHometour/4,Table: home_tour_rooms,One:Many,3
+hometourRooms/0/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/1/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/1/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/2/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/2/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/3/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/3/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/4/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/4/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/5/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/5/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/6/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/icons/6/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/0/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/0/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/0/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/0/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/0/roomTypeId,Table: home_tour_rooms,One:Many,2
+hometourRooms/1/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/1/highlightsHometour/1,Table: home_tour_rooms,One:Many,3
+hometourRooms/1/highlightsHometour/2,Table: home_tour_rooms,One:Many,3
+hometourRooms/1/highlightsHometour/3,Table: home_tour_rooms,One:Many,3
+hometourRooms/1/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/icons/1/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/icons/1/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/icons/2/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/icons/2/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/icons/3/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/icons/3/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/icons/4/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/icons/4/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/1/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/1/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/1/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/1/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/1/roomTypeId,Table: home_tour_rooms,One:Many,2
+hometourRooms/2/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/2/highlightsHometour/1,Table: home_tour_rooms,One:Many,3
+hometourRooms/2/highlightsHometour/2,Table: home_tour_rooms,One:Many,3
+hometourRooms/2/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/2/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/2/icons/1/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/2/icons/1/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/2/icons/2/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/2/icons/2/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/2/icons/3/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/2/icons/3/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/2/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/2/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/2/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/2/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/2/roomTypeId,Table: home_tour_rooms,One:Many,2
+hometourRooms/3/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/3/highlightsHometour/1,Table: home_tour_rooms,One:Many,3
+hometourRooms/3/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/icons/1/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/icons/1/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/icons/2/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/icons/2/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/icons/3/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/icons/3/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/icons/4/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/icons/4/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/3/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/3/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/3/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/3/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/3/roomTypeId,Table: home_tour_rooms,One:Many,2
+hometourRooms/4/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/4/highlightsHometour/1,Table: home_tour_rooms,One:Many,3
+hometourRooms/4/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/icons/1/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/icons/1/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/icons/2/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/icons/2/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/icons/3/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/icons/3/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/icons/4/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/icons/4/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/4/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/4/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/4/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/4/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/4/roomTypeId,Table: home_tour_rooms,One:Many,2
+hometourRooms/5/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/5/highlightsHometour/1,Table: home_tour_rooms,One:Many,3
+hometourRooms/5/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/1/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/1/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/2/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/2/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/3/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/3/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/4/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/4/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/5/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/5/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/6/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/icons/6/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/5/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/5/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/5/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/5/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/5/roomTypeId,Table: home_tour_rooms,One:Many,2
+hometourRooms/6/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/6/highlightsHometour/1,Table: home_tour_rooms,One:Many,3
+hometourRooms/6/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/1/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/1/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/2/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/2/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/3/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/3/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/4/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/4/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/5/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/5/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/6/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/icons/6/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/6/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/6/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/6/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/6/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/6/roomTypeId,Table: home_tour_rooms,One:Many,2
+hometourRooms/7/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/7/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/7/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/7/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/7/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/7/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/7/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/7/roomTypeId,Table: home_tour_rooms,One:Many,2
+hometourRooms/8/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/8/highlightsHometour/1,Table: home_tour_rooms,One:Many,3
+hometourRooms/8/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/8/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/8/icons/1/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/8/icons/1/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/8/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/8/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/8/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/8/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/8/roomTypeId,Table: home_tour_rooms,One:Many,2
+hometourRooms/9/highlightsHometour/0,Table: home_tour_rooms,One:Many,3
+hometourRooms/9/icons/0/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/9/icons/0/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/9/icons/1/type,Table: home_tour_rooms,One:Many,4
+hometourRooms/9/icons/1/url,Table: home_tour_rooms,One:Many,4
+hometourRooms/9/id,Table: home_tour_rooms,One:Many,2
+hometourRooms/9/isShared,Table: home_tour_rooms,One:Many,2
+hometourRooms/9/name,Table: home_tour_rooms,One:Many,2
+hometourRooms/9/nameWithType,Table: home_tour_rooms,One:Many,2
+hometourRooms/9/roomTypeId,Table: home_tour_rooms,One:Many,2
+hostGuidebook/guidebookUrl,Table: main,One:One,1
+hostGuidebook/id,Table: main,One:One,1
+hostGuidebook/localizedNameForHomesPdp,Table: main,One:One,1
+hostGuidebook/title,Table: main,One:One,1
+listingAmenities/0/description,Table: listing_amenities,One:Many,2
+listingAmenities/0/id,Table: listing_amenities,One:Many,2
+listingAmenities/0/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/0/name,Table: listing_amenities,One:Many,2
+listingAmenities/1/description,Table: listing_amenities,One:Many,2
+listingAmenities/1/id,Table: listing_amenities,One:Many,2
+listingAmenities/1/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/1/name,Table: listing_amenities,One:Many,2
+listingAmenities/2/description,Table: listing_amenities,One:Many,2
+listingAmenities/2/id,Table: listing_amenities,One:Many,2
+listingAmenities/2/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/2/name,Table: listing_amenities,One:Many,2
+listingAmenities/3/description,Table: listing_amenities,One:Many,2
+listingAmenities/3/id,Table: listing_amenities,One:Many,2
+listingAmenities/3/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/3/name,Table: listing_amenities,One:Many,2
+listingAmenities/4/description,Table: listing_amenities,One:Many,2
+listingAmenities/4/id,Table: listing_amenities,One:Many,2
+listingAmenities/4/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/4/name,Table: listing_amenities,One:Many,2
+listingAmenities/5/description,Table: listing_amenities,One:Many,2
+listingAmenities/5/id,Table: listing_amenities,One:Many,2
+listingAmenities/5/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/5/name,Table: listing_amenities,One:Many,2
+listingAmenities/6/description,Table: listing_amenities,One:Many,2
+listingAmenities/6/id,Table: listing_amenities,One:Many,2
+listingAmenities/6/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/6/name,Table: listing_amenities,One:Many,2
+listingAmenities/7/description,Table: listing_amenities,One:Many,2
+listingAmenities/7/id,Table: listing_amenities,One:Many,2
+listingAmenities/7/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/7/name,Table: listing_amenities,One:Many,2
+listingAmenities/8/description,Table: listing_amenities,One:Many,2
+listingAmenities/8/id,Table: listing_amenities,One:Many,2
+listingAmenities/8/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/8/name,Table: listing_amenities,One:Many,2
+listingAmenities/9/description,Table: listing_amenities,One:Many,2
+listingAmenities/9/id,Table: listing_amenities,One:Many,2
+listingAmenities/9/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/9/name,Table: listing_amenities,One:Many,2
+listingAmenities/10/description,Table: listing_amenities,One:Many,2
+listingAmenities/10/id,Table: listing_amenities,One:Many,2
+listingAmenities/10/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/10/name,Table: listing_amenities,One:Many,2
+listingAmenities/11/description,Table: listing_amenities,One:Many,2
+listingAmenities/11/id,Table: listing_amenities,One:Many,2
+listingAmenities/11/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/11/name,Table: listing_amenities,One:Many,2
+listingAmenities/12/description,Table: listing_amenities,One:Many,2
+listingAmenities/12/id,Table: listing_amenities,One:Many,2
+listingAmenities/12/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/12/name,Table: listing_amenities,One:Many,2
+listingAmenities/13/description,Table: listing_amenities,One:Many,2
+listingAmenities/13/id,Table: listing_amenities,One:Many,2
+listingAmenities/13/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/13/name,Table: listing_amenities,One:Many,2
+listingAmenities/14/description,Table: listing_amenities,One:Many,2
+listingAmenities/14/id,Table: listing_amenities,One:Many,2
+listingAmenities/14/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/14/name,Table: listing_amenities,One:Many,2
+listingAmenities/15/description,Table: listing_amenities,One:Many,2
+listingAmenities/15/id,Table: listing_amenities,One:Many,2
+listingAmenities/15/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/15/name,Table: listing_amenities,One:Many,2
+listingAmenities/16/description,Table: listing_amenities,One:Many,2
+listingAmenities/16/id,Table: listing_amenities,One:Many,2
+listingAmenities/16/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/16/name,Table: listing_amenities,One:Many,2
+listingAmenities/17/description,Table: listing_amenities,One:Many,2
+listingAmenities/17/id,Table: listing_amenities,One:Many,2
+listingAmenities/17/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/17/name,Table: listing_amenities,One:Many,2
+listingAmenities/18/description,Table: listing_amenities,One:Many,2
+listingAmenities/18/id,Table: listing_amenities,One:Many,2
+listingAmenities/18/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/18/name,Table: listing_amenities,One:Many,2
+listingAmenities/19/description,Table: listing_amenities,One:Many,2
+listingAmenities/19/id,Table: listing_amenities,One:Many,2
+listingAmenities/19/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/19/name,Table: listing_amenities,One:Many,2
+listingAmenities/20/description,Table: listing_amenities,One:Many,2
+listingAmenities/20/id,Table: listing_amenities,One:Many,2
+listingAmenities/20/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/20/name,Table: listing_amenities,One:Many,2
+listingAmenities/21/description,Table: listing_amenities,One:Many,2
+listingAmenities/21/id,Table: listing_amenities,One:Many,2
+listingAmenities/21/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/21/name,Table: listing_amenities,One:Many,2
+listingAmenities/22/description,Table: listing_amenities,One:Many,2
+listingAmenities/22/id,Table: listing_amenities,One:Many,2
+listingAmenities/22/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/22/name,Table: listing_amenities,One:Many,2
+listingAmenities/23/description,Table: listing_amenities,One:Many,2
+listingAmenities/23/id,Table: listing_amenities,One:Many,2
+listingAmenities/23/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/23/name,Table: listing_amenities,One:Many,2
+listingAmenities/24/description,Table: listing_amenities,One:Many,2
+listingAmenities/24/id,Table: listing_amenities,One:Many,2
+listingAmenities/24/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/24/name,Table: listing_amenities,One:Many,2
+listingAmenities/25/description,Table: listing_amenities,One:Many,2
+listingAmenities/25/id,Table: listing_amenities,One:Many,2
+listingAmenities/25/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/25/name,Table: listing_amenities,One:Many,2
+listingAmenities/26/description,Table: listing_amenities,One:Many,2
+listingAmenities/26/id,Table: listing_amenities,One:Many,2
+listingAmenities/26/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/26/name,Table: listing_amenities,One:Many,2
+listingAmenities/27/description,Table: listing_amenities,One:Many,2
+listingAmenities/27/id,Table: listing_amenities,One:Many,2
+listingAmenities/27/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/27/name,Table: listing_amenities,One:Many,2
+listingAmenities/28/description,Table: listing_amenities,One:Many,2
+listingAmenities/28/id,Table: listing_amenities,One:Many,2
+listingAmenities/28/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/28/name,Table: listing_amenities,One:Many,2
+listingAmenities/29/description,Table: listing_amenities,One:Many,2
+listingAmenities/29/id,Table: listing_amenities,One:Many,2
+listingAmenities/29/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/29/name,Table: listing_amenities,One:Many,2
+listingAmenities/30/description,Table: listing_amenities,One:Many,2
+listingAmenities/30/id,Table: listing_amenities,One:Many,2
+listingAmenities/30/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/30/name,Table: listing_amenities,One:Many,2
+listingAmenities/31/description,Table: listing_amenities,One:Many,2
+listingAmenities/31/id,Table: listing_amenities,One:Many,2
+listingAmenities/31/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/31/name,Table: listing_amenities,One:Many,2
+listingAmenities/32/description,Table: listing_amenities,One:Many,2
+listingAmenities/32/id,Table: listing_amenities,One:Many,2
+listingAmenities/32/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/32/name,Table: listing_amenities,One:Many,2
+listingAmenities/33/description,Table: listing_amenities,One:Many,2
+listingAmenities/33/id,Table: listing_amenities,One:Many,2
+listingAmenities/33/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/33/name,Table: listing_amenities,One:Many,2
+listingAmenities/34/description,Table: listing_amenities,One:Many,2
+listingAmenities/34/id,Table: listing_amenities,One:Many,2
+listingAmenities/34/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/34/name,Table: listing_amenities,One:Many,2
+listingAmenities/35/description,Table: listing_amenities,One:Many,2
+listingAmenities/35/id,Table: listing_amenities,One:Many,2
+listingAmenities/35/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/35/name,Table: listing_amenities,One:Many,2
+listingAmenities/36/description,Table: listing_amenities,One:Many,2
+listingAmenities/36/id,Table: listing_amenities,One:Many,2
+listingAmenities/36/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/36/name,Table: listing_amenities,One:Many,2
+listingAmenities/37/description,Table: listing_amenities,One:Many,2
+listingAmenities/37/id,Table: listing_amenities,One:Many,2
+listingAmenities/37/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/37/name,Table: listing_amenities,One:Many,2
+listingAmenities/38/description,Table: listing_amenities,One:Many,2
+listingAmenities/38/id,Table: listing_amenities,One:Many,2
+listingAmenities/38/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/38/name,Table: listing_amenities,One:Many,2
+listingAmenities/39/description,Table: listing_amenities,One:Many,2
+listingAmenities/39/id,Table: listing_amenities,One:Many,2
+listingAmenities/39/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/39/name,Table: listing_amenities,One:Many,2
+listingAmenities/40/description,Table: listing_amenities,One:Many,2
+listingAmenities/40/id,Table: listing_amenities,One:Many,2
+listingAmenities/40/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/40/name,Table: listing_amenities,One:Many,2
+listingAmenities/41/description,Table: listing_amenities,One:Many,2
+listingAmenities/41/id,Table: listing_amenities,One:Many,2
+listingAmenities/41/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/41/name,Table: listing_amenities,One:Many,2
+listingAmenities/42/description,Table: listing_amenities,One:Many,2
+listingAmenities/42/id,Table: listing_amenities,One:Many,2
+listingAmenities/42/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/42/name,Table: listing_amenities,One:Many,2
+listingAmenities/43/description,Table: listing_amenities,One:Many,2
+listingAmenities/43/id,Table: listing_amenities,One:Many,2
+listingAmenities/43/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/43/name,Table: listing_amenities,One:Many,2
+listingAmenities/44/description,Table: listing_amenities,One:Many,2
+listingAmenities/44/id,Table: listing_amenities,One:Many,2
+listingAmenities/44/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/44/name,Table: listing_amenities,One:Many,2
+listingAmenities/45/description,Table: listing_amenities,One:Many,2
+listingAmenities/45/id,Table: listing_amenities,One:Many,2
+listingAmenities/45/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/45/name,Table: listing_amenities,One:Many,2
+listingAmenities/46/description,Table: listing_amenities,One:Many,2
+listingAmenities/46/id,Table: listing_amenities,One:Many,2
+listingAmenities/46/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/46/name,Table: listing_amenities,One:Many,2
+listingAmenities/47/description,Table: listing_amenities,One:Many,2
+listingAmenities/47/id,Table: listing_amenities,One:Many,2
+listingAmenities/47/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/47/name,Table: listing_amenities,One:Many,2
+listingAmenities/48/description,Table: listing_amenities,One:Many,2
+listingAmenities/48/id,Table: listing_amenities,One:Many,2
+listingAmenities/48/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/48/name,Table: listing_amenities,One:Many,2
+listingAmenities/49/description,Table: listing_amenities,One:Many,2
+listingAmenities/49/id,Table: listing_amenities,One:Many,2
+listingAmenities/49/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/49/name,Table: listing_amenities,One:Many,2
+listingAmenities/50/description,Table: listing_amenities,One:Many,2
+listingAmenities/50/id,Table: listing_amenities,One:Many,2
+listingAmenities/50/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/50/name,Table: listing_amenities,One:Many,2
+listingAmenities/51/description,Table: listing_amenities,One:Many,2
+listingAmenities/51/id,Table: listing_amenities,One:Many,2
+listingAmenities/51/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/51/name,Table: listing_amenities,One:Many,2
+listingAmenities/52/description,Table: listing_amenities,One:Many,2
+listingAmenities/52/id,Table: listing_amenities,One:Many,2
+listingAmenities/52/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/52/name,Table: listing_amenities,One:Many,2
+listingAmenities/53/description,Table: listing_amenities,One:Many,2
+listingAmenities/53/id,Table: listing_amenities,One:Many,2
+listingAmenities/53/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/53/name,Table: listing_amenities,One:Many,2
+listingAmenities/54/description,Table: listing_amenities,One:Many,2
+listingAmenities/54/id,Table: listing_amenities,One:Many,2
+listingAmenities/54/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/54/name,Table: listing_amenities,One:Many,2
+listingAmenities/55/description,Table: listing_amenities,One:Many,2
+listingAmenities/55/id,Table: listing_amenities,One:Many,2
+listingAmenities/55/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/55/name,Table: listing_amenities,One:Many,2
+listingAmenities/56/description,Table: listing_amenities,One:Many,2
+listingAmenities/56/id,Table: listing_amenities,One:Many,2
+listingAmenities/56/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/56/name,Table: listing_amenities,One:Many,2
+listingAmenities/57/description,Table: listing_amenities,One:Many,2
+listingAmenities/57/id,Table: listing_amenities,One:Many,2
+listingAmenities/57/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/57/name,Table: listing_amenities,One:Many,2
+listingAmenities/58/description,Table: listing_amenities,One:Many,2
+listingAmenities/58/id,Table: listing_amenities,One:Many,2
+listingAmenities/58/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/58/name,Table: listing_amenities,One:Many,2
+listingAmenities/59/description,Table: listing_amenities,One:Many,2
+listingAmenities/59/id,Table: listing_amenities,One:Many,2
+listingAmenities/59/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/59/name,Table: listing_amenities,One:Many,2
+listingAmenities/60/description,Table: listing_amenities,One:Many,2
+listingAmenities/60/id,Table: listing_amenities,One:Many,2
+listingAmenities/60/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/60/name,Table: listing_amenities,One:Many,2
+listingAmenities/61/description,Table: listing_amenities,One:Many,2
+listingAmenities/61/id,Table: listing_amenities,One:Many,2
+listingAmenities/61/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/61/name,Table: listing_amenities,One:Many,2
+listingAmenities/62/description,Table: listing_amenities,One:Many,2
+listingAmenities/62/id,Table: listing_amenities,One:Many,2
+listingAmenities/62/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/62/name,Table: listing_amenities,One:Many,2
+listingAmenities/63/description,Table: listing_amenities,One:Many,2
+listingAmenities/63/id,Table: listing_amenities,One:Many,2
+listingAmenities/63/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/63/name,Table: listing_amenities,One:Many,2
+listingAmenities/64/description,Table: listing_amenities,One:Many,2
+listingAmenities/64/id,Table: listing_amenities,One:Many,2
+listingAmenities/64/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/64/name,Table: listing_amenities,One:Many,2
+listingAmenities/65/description,Table: listing_amenities,One:Many,2
+listingAmenities/65/id,Table: listing_amenities,One:Many,2
+listingAmenities/65/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/65/name,Table: listing_amenities,One:Many,2
+listingAmenities/66/description,Table: listing_amenities,One:Many,2
+listingAmenities/66/id,Table: listing_amenities,One:Many,2
+listingAmenities/66/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/66/name,Table: listing_amenities,One:Many,2
+listingAmenities/67/description,Table: listing_amenities,One:Many,2
+listingAmenities/67/id,Table: listing_amenities,One:Many,2
+listingAmenities/67/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/67/name,Table: listing_amenities,One:Many,2
+listingAmenities/68/description,Table: listing_amenities,One:Many,2
+listingAmenities/68/id,Table: listing_amenities,One:Many,2
+listingAmenities/68/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/68/name,Table: listing_amenities,One:Many,2
+listingAmenities/69/description,Table: listing_amenities,One:Many,2
+listingAmenities/69/id,Table: listing_amenities,One:Many,2
+listingAmenities/69/isPresent,Table: listing_amenities,One:Many,2
+listingAmenities/69/name,Table: listing_amenities,One:Many,2
+listingExpectations/0/addedDetails,Table: listing_expectations,One:Many,2
+listingExpectations/0/airmojiKey,Table: listing_expectations,One:Many,2
+listingExpectations/0/title,Table: listing_expectations,One:Many,2
+listingExpectations/0/type,Table: listing_expectations,One:Many,2
+listingExpectations/1/addedDetails,Table: listing_expectations,One:Many,2
+listingExpectations/1/airmojiKey,Table: listing_expectations,One:Many,2
+listingExpectations/1/title,Table: listing_expectations,One:Many,2
+listingExpectations/1/type,Table: listing_expectations,One:Many,2
+listingExpectations/2/addedDetails,Table: listing_expectations,One:Many,2
+listingExpectations/2/airmojiKey,Table: listing_expectations,One:Many,2
+listingExpectations/2/title,Table: listing_expectations,One:Many,2
+listingExpectations/2/type,Table: listing_expectations,One:Many,2
+listingExpectations/3/addedDetails,Table: listing_expectations,One:Many,2
+listingExpectations/3/airmojiKey,Table: listing_expectations,One:Many,2
+listingExpectations/3/title,Table: listing_expectations,One:Many,2
+listingExpectations/3/type,Table: listing_expectations,One:Many,2
+listingExpectations/4/addedDetails,Table: listing_expectations,One:Many,2
+listingExpectations/4/airmojiKey,Table: listing_expectations,One:Many,2
+listingExpectations/4/title,Table: listing_expectations,One:Many,2
+listingExpectations/4/type,Table: listing_expectations,One:Many,2
+listingExpectations/5/addedDetails,Table: listing_expectations,One:Many,2
+listingExpectations/5/airmojiKey,Table: listing_expectations,One:Many,2
+listingExpectations/5/title,Table: listing_expectations,One:Many,2
+listingExpectations/5/type,Table: listing_expectations,One:Many,2
+listingExpectations/6/addedDetails,Table: listing_expectations,One:Many,2
+listingExpectations/6/airmojiKey,Table: listing_expectations,One:Many,2
+listingExpectations/6/title,Table: listing_expectations,One:Many,2
+listingExpectations/6/type,Table: listing_expectations,One:Many,2
+listingRooms/0/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/1/id,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/1/quantity,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/1/type,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/2/id,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/2/quantity,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/2/type,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/3/id,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/3/quantity,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/3/type,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/4/id,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/4/quantity,Table: listing_rooms,One:Many,4
+listingRooms/0/beds/4/type,Table: listing_rooms,One:Many,4
+listingRooms/0/id,Table: listing_rooms,One:Many,2
+listingRooms/0/roomNumber,Table: listing_rooms,One:Many,2
+listingRooms/1/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/1/id,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/1/quantity,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/1/type,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/2/id,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/2/quantity,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/2/type,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/3/id,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/3/quantity,Table: listing_rooms,One:Many,4
+listingRooms/1/beds/3/type,Table: listing_rooms,One:Many,4
+listingRooms/1/id,Table: listing_rooms,One:Many,2
+listingRooms/1/roomNumber,Table: listing_rooms,One:Many,2
+listingRooms/2/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/1/id,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/1/quantity,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/1/type,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/2/id,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/2/quantity,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/2/type,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/3/id,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/3/quantity,Table: listing_rooms,One:Many,4
+listingRooms/2/beds/3/type,Table: listing_rooms,One:Many,4
+listingRooms/2/id,Table: listing_rooms,One:Many,2
+listingRooms/2/roomNumber,Table: listing_rooms,One:Many,2
+listingRooms/3/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/1/id,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/1/quantity,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/1/type,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/2/id,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/2/quantity,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/2/type,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/3/id,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/3/quantity,Table: listing_rooms,One:Many,4
+listingRooms/3/beds/3/type,Table: listing_rooms,One:Many,4
+listingRooms/3/id,Table: listing_rooms,One:Many,2
+listingRooms/3/roomNumber,Table: listing_rooms,One:Many,2
+listingRooms/4/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/4/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/4/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/4/beds/1/id,Table: listing_rooms,One:Many,4
+listingRooms/4/beds/1/quantity,Table: listing_rooms,One:Many,4
+listingRooms/4/beds/1/type,Table: listing_rooms,One:Many,4
+listingRooms/4/id,Table: listing_rooms,One:Many,2
+listingRooms/4/roomNumber,Table: listing_rooms,One:Many,2
+listingRooms/5/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/5/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/5/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/5/beds/1/id,Table: listing_rooms,One:Many,4
+listingRooms/5/beds/1/quantity,Table: listing_rooms,One:Many,4
+listingRooms/5/beds/1/type,Table: listing_rooms,One:Many,4
+listingRooms/5/id,Table: listing_rooms,One:Many,2
+listingRooms/5/roomNumber,Table: listing_rooms,One:Many,2
+listingRooms/6/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/6/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/6/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/6/beds/1/id,Table: listing_rooms,One:Many,4
+listingRooms/6/beds/1/quantity,Table: listing_rooms,One:Many,4
+listingRooms/6/beds/1/type,Table: listing_rooms,One:Many,4
+listingRooms/6/id,Table: listing_rooms,One:Many,2
+listingRooms/6/roomNumber,Table: listing_rooms,One:Many,2
+listingRooms/7/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/7/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/7/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/7/beds/1/id,Table: listing_rooms,One:Many,4
+listingRooms/7/beds/1/quantity,Table: listing_rooms,One:Many,4
+listingRooms/7/beds/1/type,Table: listing_rooms,One:Many,4
+listingRooms/7/id,Table: listing_rooms,One:Many,2
+listingRooms/7/roomNumber,Table: listing_rooms,One:Many,2
+listingRooms/8/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/8/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/8/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/8/beds/1/id,Table: listing_rooms,One:Many,4
+listingRooms/8/beds/1/quantity,Table: listing_rooms,One:Many,4
+listingRooms/8/beds/1/type,Table: listing_rooms,One:Many,4
+listingRooms/8/id,Table: listing_rooms,One:Many,2
+listingRooms/8/roomNumber,Table: listing_rooms,One:Many,2
+listingRooms/9/beds/0/id,Table: listing_rooms,One:Many,4
+listingRooms/9/beds/0/quantity,Table: listing_rooms,One:Many,4
+listingRooms/9/beds/0/type,Table: listing_rooms,One:Many,4
+listingRooms/9/id,Table: listing_rooms,One:Many,2
+listingRooms/9/roomNumber,Table: listing_rooms,One:Many,2
+localizedListingExpectations/0/addedDetails,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/0/airmojiKey,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/0/title,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/0/type,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/1/addedDetails,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/1/airmojiKey,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/1/title,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/1/type,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/2/addedDetails,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/2/airmojiKey,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/2/title,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/2/type,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/3/addedDetails,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/3/airmojiKey,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/3/title,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/3/type,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/4/addedDetails,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/4/airmojiKey,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/4/title,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/4/type,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/5/addedDetails,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/5/airmojiKey,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/5/title,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/5/type,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/6/addedDetails,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/6/airmojiKey,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/6/title,Table: localized_listing_expectations,One:Many,2
+localizedListingExpectations/6/type,Table: localized_listing_expectations,One:Many,2
+location/lat,Table: main,One:One,1
+location/lng,Table: main,One:One,1
+additionalHouseRules,Table: main,One:One,0
+address,Table: main,One:One,0
+bathroomLabel,Table: main,One:One,0
+bedLabel,Table: main,One:One,0
+bedroomLabel,Table: main,One:One,0
+city,Table: main,One:One,0
+country,Table: main,One:One,0
+countryCode,Table: main,One:One,0
+descriptionLocale,Table: main,One:One,0
+enableHighlightsVoting,Table: main,One:One,0
+hasCommercialHostInfo,Table: main,One:One,0
+hasHostGuidebook,Table: main,One:One,0
+hasHouseRules,Table: main,One:One,0
+hasLocalAttractions,Table: main,One:One,0
+hasSpecialOffer,Table: main,One:One,0
+hasWeWorkLocation,Table: main,One:One,0
+highlightsImpressionId,Table: main,One:One,0
+id,Table: main,One:One,0
+initialDescriptionAuthorType,Table: main,One:One,0
+isAvailable,Table: main,One:One,0
+isBusinessTravelReady,Table: main,One:One,0
+isHostedBySuperhost,Table: main,One:One,0
+isHotel,Table: main,One:One,0
+isNewListing,Table: main,One:One,0
+isRepresentativeInventory,Table: main,One:One,0
+localizedCheckInTimeWindow,Table: main,One:One,0
+localizedCheckOutTime,Table: main,One:One,0
+localizedCity,Table: main,One:One,0
+maxNights,Table: main,One:One,0
+minNights,Table: main,One:One,0
+name,Table: main,One:One,0
+numberOfGuests,Table: main,One:One,0
+p3ImpressionId,Table: main,One:One,0
+p3SummaryAddress,Table: main,One:One,0
+pageViewType,Table: main,One:One,0
+renderTierId,Table: main,One:One,0
+reviewDetailsInterface/reviewCount,Table: main,One:One,1
+reviewsModule/localizedOverallRating,Table: main,One:One,1
+reviewsOrder,Table: main,One:One,0
+roomType,Table: main,One:One,0
+roomTypeCategory,Table: main,One:One,0
+sectionedDescription/access,Table: main,One:One,1
+sectionedDescription/authorType,Table: main,One:One,1
+sectionedDescription/description,Table: main,One:One,1
+sectionedDescription/houseRules,Table: main,One:One,1
+sectionedDescription/interaction,Table: main,One:One,1
+sectionedDescription/locale,Table: main,One:One,1
+sectionedDescription/localizedLanguageName,Table: main,One:One,1
+sectionedDescription/name,Table: main,One:One,1
+sectionedDescription/neighborhoodOverview,Table: main,One:One,1
+sectionedDescription/notes,Table: main,One:One,1
+sectionedDescription/space,Table: main,One:One,1
+sectionedDescription/summary,Table: main,One:One,1
+sectionedDescription/transit,Table: main,One:One,1
+showReviewTag,Table: main,One:One,0
+stars,Table: main,One:One,0
+state,Table: main,One:One,0
+tierId,Table: main,One:One,0
+url,Table: main,One:One,0
+photos/0/caption,Table: photos,One:Many,2
+photos/0/pictureUrl,Table: photos,One:Many,2
+photos/0/thumbnailUrl,Table: photos,One:Many,2
+photos/1/caption,Table: photos,One:Many,2
+photos/1/pictureUrl,Table: photos,One:Many,2
+photos/1/thumbnailUrl,Table: photos,One:Many,2
+photos/2/caption,Table: photos,One:Many,2
+photos/2/pictureUrl,Table: photos,One:Many,2
+photos/2/thumbnailUrl,Table: photos,One:Many,2
+photos/3/caption,Table: photos,One:Many,2
+photos/3/pictureUrl,Table: photos,One:Many,2
+photos/3/thumbnailUrl,Table: photos,One:Many,2
+photos/4/caption,Table: photos,One:Many,2
+photos/4/pictureUrl,Table: photos,One:Many,2
+photos/4/thumbnailUrl,Table: photos,One:Many,2
+photos/5/caption,Table: photos,One:Many,2
+photos/5/pictureUrl,Table: photos,One:Many,2
+photos/5/thumbnailUrl,Table: photos,One:Many,2
+photos/6/caption,Table: photos,One:Many,2
+photos/6/pictureUrl,Table: photos,One:Many,2
+photos/6/thumbnailUrl,Table: photos,One:Many,2
+photos/7/caption,Table: photos,One:Many,2
+photos/7/pictureUrl,Table: photos,One:Many,2
+photos/7/thumbnailUrl,Table: photos,One:Many,2
+photos/8/caption,Table: photos,One:Many,2
+photos/8/pictureUrl,Table: photos,One:Many,2
+photos/8/thumbnailUrl,Table: photos,One:Many,2
+photos/9/caption,Table: photos,One:Many,2
+photos/9/pictureUrl,Table: photos,One:Many,2
+photos/9/thumbnailUrl,Table: photos,One:Many,2
+photos/10/caption,Table: photos,One:Many,2
+photos/10/pictureUrl,Table: photos,One:Many,2
+photos/10/thumbnailUrl,Table: photos,One:Many,2
+photos/11/caption,Table: photos,One:Many,2
+photos/11/pictureUrl,Table: photos,One:Many,2
+photos/11/thumbnailUrl,Table: photos,One:Many,2
+photos/12/caption,Table: photos,One:Many,2
+photos/12/pictureUrl,Table: photos,One:Many,2
+photos/12/thumbnailUrl,Table: photos,One:Many,2
+photos/13/caption,Table: photos,One:Many,2
+photos/13/pictureUrl,Table: photos,One:Many,2
+photos/13/thumbnailUrl,Table: photos,One:Many,2
+photos/14/caption,Table: photos,One:Many,2
+photos/14/pictureUrl,Table: photos,One:Many,2
+photos/14/thumbnailUrl,Table: photos,One:Many,2
+photos/15/caption,Table: photos,One:Many,2
+photos/15/pictureUrl,Table: photos,One:Many,2
+photos/15/thumbnailUrl,Table: photos,One:Many,2
+photos/16/caption,Table: photos,One:Many,2
+photos/16/pictureUrl,Table: photos,One:Many,2
+photos/16/thumbnailUrl,Table: photos,One:Many,2
+photos/17/caption,Table: photos,One:Many,2
+photos/17/pictureUrl,Table: photos,One:Many,2
+photos/17/thumbnailUrl,Table: photos,One:Many,2
+photos/18/caption,Table: photos,One:Many,2
+photos/18/pictureUrl,Table: photos,One:Many,2
+photos/18/thumbnailUrl,Table: photos,One:Many,2
+photos/19/caption,Table: photos,One:Many,2
+photos/19/pictureUrl,Table: photos,One:Many,2
+photos/19/thumbnailUrl,Table: photos,One:Many,2
+photos/20/caption,Table: photos,One:Many,2
+photos/20/pictureUrl,Table: photos,One:Many,2
+photos/20/thumbnailUrl,Table: photos,One:Many,2
+photos/21/caption,Table: photos,One:Many,2
+photos/21/pictureUrl,Table: photos,One:Many,2
+photos/21/thumbnailUrl,Table: photos,One:Many,2
+photos/22/caption,Table: photos,One:Many,2
+photos/22/pictureUrl,Table: photos,One:Many,2
+photos/22/thumbnailUrl,Table: photos,One:Many,2
+photos/23/caption,Table: photos,One:Many,2
+photos/23/pictureUrl,Table: photos,One:Many,2
+photos/23/thumbnailUrl,Table: photos,One:Many,2
+photos/24/caption,Table: photos,One:Many,2
+photos/24/pictureUrl,Table: photos,One:Many,2
+photos/24/thumbnailUrl,Table: photos,One:Many,2
+photos/25/caption,Table: photos,One:Many,2
+photos/25/pictureUrl,Table: photos,One:Many,2
+photos/25/thumbnailUrl,Table: photos,One:Many,2
+photos/26/caption,Table: photos,One:Many,2
+photos/26/pictureUrl,Table: photos,One:Many,2
+photos/26/thumbnailUrl,Table: photos,One:Many,2
+photos/27/caption,Table: photos,One:Many,2
+photos/27/pictureUrl,Table: photos,One:Many,2
+photos/27/thumbnailUrl,Table: photos,One:Many,2
+photos/28/caption,Table: photos,One:Many,2
+photos/28/pictureUrl,Table: photos,One:Many,2
+photos/28/thumbnailUrl,Table: photos,One:Many,2
+photos/29/caption,Table: photos,One:Many,2
+photos/29/pictureUrl,Table: photos,One:Many,2
+photos/29/thumbnailUrl,Table: photos,One:Many,2
+photos/30/caption,Table: photos,One:Many,2
+photos/30/pictureUrl,Table: photos,One:Many,2
+photos/30/thumbnailUrl,Table: photos,One:Many,2
+photos/31/caption,Table: photos,One:Many,2
+photos/31/pictureUrl,Table: photos,One:Many,2
+photos/31/thumbnailUrl,Table: photos,One:Many,2
+photos/32/caption,Table: photos,One:Many,2
+photos/32/pictureUrl,Table: photos,One:Many,2
+photos/32/thumbnailUrl,Table: photos,One:Many,2
+photos/33/caption,Table: photos,One:Many,2
+photos/33/pictureUrl,Table: photos,One:Many,2
+photos/33/thumbnailUrl,Table: photos,One:Many,2
+photos/34/caption,Table: photos,One:Many,2
+photos/34/pictureUrl,Table: photos,One:Many,2
+photos/34/thumbnailUrl,Table: photos,One:Many,2
+photos/35/caption,Table: photos,One:Many,2
+photos/35/pictureUrl,Table: photos,One:Many,2
+photos/35/thumbnailUrl,Table: photos,One:Many,2
+photos/36/caption,Table: photos,One:Many,2
+photos/36/pictureUrl,Table: photos,One:Many,2
+photos/36/thumbnailUrl,Table: photos,One:Many,2
+photos/37/caption,Table: photos,One:Many,2
+photos/37/pictureUrl,Table: photos,One:Many,2
+photos/37/thumbnailUrl,Table: photos,One:Many,2
+photos/38/caption,Table: photos,One:Many,2
+photos/38/pictureUrl,Table: photos,One:Many,2
+photos/38/thumbnailUrl,Table: photos,One:Many,2
+photos/39/caption,Table: photos,One:Many,2
+photos/39/pictureUrl,Table: photos,One:Many,2
+photos/39/thumbnailUrl,Table: photos,One:Many,2
+photos/40/caption,Table: photos,One:Many,2
+photos/40/pictureUrl,Table: photos,One:Many,2
+photos/40/thumbnailUrl,Table: photos,One:Many,2
+photos/41/caption,Table: photos,One:Many,2
+photos/41/pictureUrl,Table: photos,One:Many,2
+photos/41/thumbnailUrl,Table: photos,One:Many,2
+photos/42/caption,Table: photos,One:Many,2
+photos/42/pictureUrl,Table: photos,One:Many,2
+photos/42/thumbnailUrl,Table: photos,One:Many,2
+photos/43/caption,Table: photos,One:Many,2
+photos/43/pictureUrl,Table: photos,One:Many,2
+photos/43/thumbnailUrl,Table: photos,One:Many,2
+photos/44/caption,Table: photos,One:Many,2
+photos/44/pictureUrl,Table: photos,One:Many,2
+photos/44/thumbnailUrl,Table: photos,One:Many,2
+photos/45/caption,Table: photos,One:Many,2
+photos/45/pictureUrl,Table: photos,One:Many,2
+photos/45/thumbnailUrl,Table: photos,One:Many,2
+photos/46/caption,Table: photos,One:Many,2
+photos/46/pictureUrl,Table: photos,One:Many,2
+photos/46/thumbnailUrl,Table: photos,One:Many,2
+photos/47/caption,Table: photos,One:Many,2
+photos/47/pictureUrl,Table: photos,One:Many,2
+photos/47/thumbnailUrl,Table: photos,One:Many,2
+photos/48/caption,Table: photos,One:Many,2
+photos/48/pictureUrl,Table: photos,One:Many,2
+photos/48/thumbnailUrl,Table: photos,One:Many,2
+photos/49/caption,Table: photos,One:Many,2
+photos/49/pictureUrl,Table: photos,One:Many,2
+photos/49/thumbnailUrl,Table: photos,One:Many,2
+photos/50/caption,Table: photos,One:Many,2
+photos/50/pictureUrl,Table: photos,One:Many,2
+photos/50/thumbnailUrl,Table: photos,One:Many,2
+photos/51/caption,Table: photos,One:Many,2
+photos/51/pictureUrl,Table: photos,One:Many,2
+photos/51/thumbnailUrl,Table: photos,One:Many,2
+photos/52/caption,Table: photos,One:Many,2
+photos/52/pictureUrl,Table: photos,One:Many,2
+photos/52/thumbnailUrl,Table: photos,One:Many,2
+photos/53/caption,Table: photos,One:Many,2
+photos/53/pictureUrl,Table: photos,One:Many,2
+photos/53/thumbnailUrl,Table: photos,One:Many,2
+photos/54/caption,Table: photos,One:Many,2
+photos/54/pictureUrl,Table: photos,One:Many,2
+photos/54/thumbnailUrl,Table: photos,One:Many,2
+photos/55/caption,Table: photos,One:Many,2
+photos/55/pictureUrl,Table: photos,One:Many,2
+photos/55/thumbnailUrl,Table: photos,One:Many,2
+photos/56/caption,Table: photos,One:Many,2
+photos/56/pictureUrl,Table: photos,One:Many,2
+photos/56/thumbnailUrl,Table: photos,One:Many,2
+photos/57/caption,Table: photos,One:Many,2
+photos/57/pictureUrl,Table: photos,One:Many,2
+photos/57/thumbnailUrl,Table: photos,One:Many,2
+photos/58/caption,Table: photos,One:Many,2
+photos/58/pictureUrl,Table: photos,One:Many,2
+photos/58/thumbnailUrl,Table: photos,One:Many,2
+photos/59/caption,Table: photos,One:Many,2
+photos/59/pictureUrl,Table: photos,One:Many,2
+photos/59/thumbnailUrl,Table: photos,One:Many,2
+photos/60/caption,Table: photos,One:Many,2
+photos/60/pictureUrl,Table: photos,One:Many,2
+photos/60/thumbnailUrl,Table: photos,One:Many,2
+photos/61/caption,Table: photos,One:Many,2
+photos/61/pictureUrl,Table: photos,One:Many,2
+photos/61/thumbnailUrl,Table: photos,One:Many,2
+photos/62/caption,Table: photos,One:Many,2
+photos/62/pictureUrl,Table: photos,One:Many,2
+photos/62/thumbnailUrl,Table: photos,One:Many,2
+photos/63/caption,Table: photos,One:Many,2
+photos/63/pictureUrl,Table: photos,One:Many,2
+photos/63/thumbnailUrl,Table: photos,One:Many,2
+photos/64/caption,Table: photos,One:Many,2
+photos/64/pictureUrl,Table: photos,One:Many,2
+photos/64/thumbnailUrl,Table: photos,One:Many,2
+photos/65/caption,Table: photos,One:Many,2
+photos/65/pictureUrl,Table: photos,One:Many,2
+photos/65/thumbnailUrl,Table: photos,One:Many,2
+photos/66/caption,Table: photos,One:Many,2
+photos/66/pictureUrl,Table: photos,One:Many,2
+photos/66/thumbnailUrl,Table: photos,One:Many,2
+photos/67/caption,Table: photos,One:Many,2
+photos/67/pictureUrl,Table: photos,One:Many,2
+photos/67/thumbnailUrl,Table: photos,One:Many,2
+photos/68/caption,Table: photos,One:Many,2
+photos/68/pictureUrl,Table: photos,One:Many,2
+photos/68/thumbnailUrl,Table: photos,One:Many,2
+photos/69/caption,Table: photos,One:Many,2
+photos/69/pictureUrl,Table: photos,One:Many,2
+photos/69/thumbnailUrl,Table: photos,One:Many,2
+photos/70/caption,Table: photos,One:Many,2
+photos/70/pictureUrl,Table: photos,One:Many,2
+photos/70/thumbnailUrl,Table: photos,One:Many,2
+photos/71/caption,Table: photos,One:Many,2
+photos/71/pictureUrl,Table: photos,One:Many,2
+photos/71/thumbnailUrl,Table: photos,One:Many,2
+photos/72/caption,Table: photos,One:Many,2
+photos/72/pictureUrl,Table: photos,One:Many,2
+photos/72/thumbnailUrl,Table: photos,One:Many,2
+photos/73/caption,Table: photos,One:Many,2
+photos/73/pictureUrl,Table: photos,One:Many,2
+photos/73/thumbnailUrl,Table: photos,One:Many,2
+photos/74/caption,Table: photos,One:Many,2
+photos/74/pictureUrl,Table: photos,One:Many,2
+photos/74/thumbnailUrl,Table: photos,One:Many,2
+photos/75/caption,Table: photos,One:Many,2
+photos/75/pictureUrl,Table: photos,One:Many,2
+photos/75/thumbnailUrl,Table: photos,One:Many,2
+photos/76/caption,Table: photos,One:Many,2
+photos/76/pictureUrl,Table: photos,One:Many,2
+photos/76/thumbnailUrl,Table: photos,One:Many,2
+photos/77/caption,Table: photos,One:Many,2
+photos/77/pictureUrl,Table: photos,One:Many,2
+photos/77/thumbnailUrl,Table: photos,One:Many,2
+photos/78/caption,Table: photos,One:Many,2
+photos/78/pictureUrl,Table: photos,One:Many,2
+photos/78/thumbnailUrl,Table: photos,One:Many,2
+photos/79/caption,Table: photos,One:Many,2
+photos/79/pictureUrl,Table: photos,One:Many,2
+photos/79/thumbnailUrl,Table: photos,One:Many,2
+photos/80/caption,Table: photos,One:Many,2
+photos/80/pictureUrl,Table: photos,One:Many,2
+photos/80/thumbnailUrl,Table: photos,One:Many,2
+photos/81/caption,Table: photos,One:Many,2
+photos/81/pictureUrl,Table: photos,One:Many,2
+photos/81/thumbnailUrl,Table: photos,One:Many,2
+photos/82/caption,Table: photos,One:Many,2
+photos/82/pictureUrl,Table: photos,One:Many,2
+photos/82/thumbnailUrl,Table: photos,One:Many,2
+photos/83/caption,Table: photos,One:Many,2
+photos/83/pictureUrl,Table: photos,One:Many,2
+photos/83/thumbnailUrl,Table: photos,One:Many,2
+photos/84/caption,Table: photos,One:Many,2
+photos/84/pictureUrl,Table: photos,One:Many,2
+photos/84/thumbnailUrl,Table: photos,One:Many,2
+photos/85/caption,Table: photos,One:Many,2
+photos/85/pictureUrl,Table: photos,One:Many,2
+photos/85/thumbnailUrl,Table: photos,One:Many,2
+photos/86/caption,Table: photos,One:Many,2
+photos/86/pictureUrl,Table: photos,One:Many,2
+photos/86/thumbnailUrl,Table: photos,One:Many,2
+photos/87/caption,Table: photos,One:Many,2
+photos/87/pictureUrl,Table: photos,One:Many,2
+photos/87/thumbnailUrl,Table: photos,One:Many,2
+photos/88/caption,Table: photos,One:Many,2
+photos/88/pictureUrl,Table: photos,One:Many,2
+photos/88/thumbnailUrl,Table: photos,One:Many,2
+photos/89/caption,Table: photos,One:Many,2
+photos/89/pictureUrl,Table: photos,One:Many,2
+photos/89/thumbnailUrl,Table: photos,One:Many,2
+photos/90/caption,Table: photos,One:Many,2
+photos/90/pictureUrl,Table: photos,One:Many,2
+photos/90/thumbnailUrl,Table: photos,One:Many,2
+photos/91/caption,Table: photos,One:Many,2
+photos/91/pictureUrl,Table: photos,One:Many,2
+photos/91/thumbnailUrl,Table: photos,One:Many,2
+photos/92/caption,Table: photos,One:Many,2
+photos/92/pictureUrl,Table: photos,One:Many,2
+photos/92/thumbnailUrl,Table: photos,One:Many,2
+photos/93/caption,Table: photos,One:Many,2
+photos/93/pictureUrl,Table: photos,One:Many,2
+photos/93/thumbnailUrl,Table: photos,One:Many,2
+photos/94/caption,Table: photos,One:Many,2
+photos/94/pictureUrl,Table: photos,One:Many,2
+photos/94/thumbnailUrl,Table: photos,One:Many,2
+photos/95/caption,Table: photos,One:Many,2
+photos/95/pictureUrl,Table: photos,One:Many,2
+photos/95/thumbnailUrl,Table: photos,One:Many,2
+photos/96/caption,Table: photos,One:Many,2
+photos/96/pictureUrl,Table: photos,One:Many,2
+photos/96/thumbnailUrl,Table: photos,One:Many,2
+photos/97/caption,Table: photos,One:Many,2
+photos/97/pictureUrl,Table: photos,One:Many,2
+photos/97/thumbnailUrl,Table: photos,One:Many,2
+photos/98/caption,Table: photos,One:Many,2
+photos/98/pictureUrl,Table: photos,One:Many,2
+photos/98/thumbnailUrl,Table: photos,One:Many,2
+photos/99/caption,Table: photos,One:Many,2
+photos/99/pictureUrl,Table: photos,One:Many,2
+photos/99/thumbnailUrl,Table: photos,One:Many,2
+photos/100/caption,Table: photos,One:Many,2
+photos/100/pictureUrl,Table: photos,One:Many,2
+photos/100/thumbnailUrl,Table: photos,One:Many,2
+photos/101/caption,Table: photos,One:Many,2
+photos/101/pictureUrl,Table: photos,One:Many,2
+photos/101/thumbnailUrl,Table: photos,One:Many,2
+photos/102/caption,Table: photos,One:Many,2
+photos/102/pictureUrl,Table: photos,One:Many,2
+photos/102/thumbnailUrl,Table: photos,One:Many,2
+photos/103/caption,Table: photos,One:Many,2
+photos/103/pictureUrl,Table: photos,One:Many,2
+photos/103/thumbnailUrl,Table: photos,One:Many,2
+photos/104/caption,Table: photos,One:Many,2
+photos/104/pictureUrl,Table: photos,One:Many,2
+photos/104/thumbnailUrl,Table: photos,One:Many,2
+photos/105/caption,Table: photos,One:Many,2
+photos/105/pictureUrl,Table: photos,One:Many,2
+photos/105/thumbnailUrl,Table: photos,One:Many,2
+photos/106/caption,Table: photos,One:Many,2
+photos/106/pictureUrl,Table: photos,One:Many,2
+photos/106/thumbnailUrl,Table: photos,One:Many,2
+photos/107/caption,Table: photos,One:Many,2
+photos/107/pictureUrl,Table: photos,One:Many,2
+photos/107/thumbnailUrl,Table: photos,One:Many,2
+photos/108/caption,Table: photos,One:Many,2
+photos/108/pictureUrl,Table: photos,One:Many,2
+photos/108/thumbnailUrl,Table: photos,One:Many,2
+photos/109/caption,Table: photos,One:Many,2
+photos/109/pictureUrl,Table: photos,One:Many,2
+photos/109/thumbnailUrl,Table: photos,One:Many,2
+photos/110/caption,Table: photos,One:Many,2
+photos/110/pictureUrl,Table: photos,One:Many,2
+photos/110/thumbnailUrl,Table: photos,One:Many,2
+photos/111/caption,Table: photos,One:Many,2
+photos/111/pictureUrl,Table: photos,One:Many,2
+photos/111/thumbnailUrl,Table: photos,One:Many,2
+photos/112/caption,Table: photos,One:Many,2
+photos/112/pictureUrl,Table: photos,One:Many,2
+photos/112/thumbnailUrl,Table: photos,One:Many,2
+photos/113/caption,Table: photos,One:Many,2
+photos/113/pictureUrl,Table: photos,One:Many,2
+photos/113/thumbnailUrl,Table: photos,One:Many,2
+priceDetails/0/attributeType,Table: price_details,One:Many,2
+priceDetails/0/label,Table: price_details,One:Many,2
+priceDetails/0/value,Table: price_details,One:Many,2
+priceDetails/1/attributeType,Table: price_details,One:Many,2
+priceDetails/1/label,Table: price_details,One:Many,2
+priceDetails/1/value,Table: price_details,One:Many,2
+priceDetails/2/attributeType,Table: price_details,One:Many,2
+priceDetails/2/label,Table: price_details,One:Many,2
+priceDetails/2/value,Table: price_details,One:Many,2
+priceDetails/3/attributeType,Table: price_details,One:Many,2
+priceDetails/3/label,Table: price_details,One:Many,2
+priceDetails/3/value,Table: price_details,One:Many,2
+pricing/rate/amount,Table: pricing_rate,One:One,2
+pricing/rate/amountFormatted,Table: pricing_rate,One:One,2
+pricing/rate/currency,Table: pricing_rate,One:One,2
+pricing/rate/isMicrosAccuracy,Table: pricing_rate,One:One,2
+pricing/rateType,Table: pricing_rate,One:One,1
+primaryHost/about,Table: primary_host,One:One,1
+primaryHost/badges/0,Table: primary_host,One:One,2
+primaryHost/badges/1,Table: primary_host,One:One,2
+primaryHost/badges/2,Table: primary_host,One:One,2
+primaryHost/firstName,Table: primary_host,One:One,1
+primaryHost/hasInclusionBadge,Table: primary_host,One:One,1
+primaryHost/hasProfilePic,Table: primary_host,One:One,1
+primaryHost/hostUrl,Table: primary_host,One:One,1
+primaryHost/id,Table: primary_host,One:One,1
+primaryHost/isSuperHost,Table: primary_host,One:One,1
+primaryHost/languages/0,Table: primary_host,One:One,2
+primaryHost/languages/1,Table: primary_host,One:One,2
+primaryHost/languages/2,Table: primary_host,One:One,2
+primaryHost/languages/3,Table: primary_host,One:One,2
+primaryHost/languages/4,Table: primary_host,One:One,2
+primaryHost/listingsCount,Table: primary_host,One:One,1
+primaryHost/memberSince,Table: primary_host,One:One,1
+primaryHost/pictureUrl,Table: primary_host,One:One,1
+primaryHost/responseRate,Table: primary_host,One:One,1
+primaryHost/responseTime,Table: primary_host,One:One,1
+primaryHost/smartName,Table: primary_host,One:One,1
+primaryHost/thumbnailUrl,Table: primary_host,One:One,1
+primaryHost/totalListingsCount,Table: primary_host,One:One,1
+reviewDetailsInterface/reviewSummary/0/label,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/0/localizedRating,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/0/percentage,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/0/value,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/1/label,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/1/localizedRating,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/1/percentage,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/1/value,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/2/label,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/2/localizedRating,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/2/percentage,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/2/value,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/3/label,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/3/localizedRating,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/3/percentage,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/3/value,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/4/label,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/4/localizedRating,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/4/percentage,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/4/value,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/5/label,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/5/localizedRating,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/5/percentage,Table: review_details_interface,One:Many,3
+reviewDetailsInterface/reviewSummary/5/value,Table: review_details_interface,One:Many,3
+rootAmenitySections/0/amenityIds/0,Table: root_amenity_sections,One:One,3
+rootAmenitySections/0/amenityIds/1,Table: root_amenity_sections,One:One,3
+rootAmenitySections/0/amenityIds/2,Table: root_amenity_sections,One:One,3
+rootAmenitySections/0/amenityIds/3,Table: root_amenity_sections,One:One,3
+rootAmenitySections/0/id,Table: root_amenity_sections_details,One:Many,2
+rootAmenitySections/0/subtitle,Table: root_amenity_sections_details,One:Many,2
+rootAmenitySections/0/title,Table: root_amenity_sections_details,One:Many,2
+rootAmenitySections/1/amenityIds/0,Table: root_amenity_sections_details,One:Many,3
+rootAmenitySections/1/amenityIds/1,Table: root_amenity_sections_details,One:Many,3
+rootAmenitySections/1/id,Table: root_amenity_sections_details,One:Many,2
+rootAmenitySections/1/subtitle,Table: root_amenity_sections_details,One:Many,2
+rootAmenitySections/1/title,Table: root_amenity_sections_details,One:Many,2
+guestControls/structuredHouseRules/0,Table: structured_house_rules,One:One,2
+guestControls/structuredHouseRules/1,Table: structured_house_rules,One:One,2
+guestControls/structuredHouseRules/2,Table: structured_house_rules,One:One,2
+guestControls/structuredHouseRulesWithTips/0/airmojiKey,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/0/details,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/0/key,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/0/longTermText,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/0/text,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/1/airmojiKey,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/1/key,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/1/text,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/2/airmojiKey,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/2/key,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/2/text,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/3/airmojiKey,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/3/key,Table: structured_house_rules_with_tips,One:Many,3
+guestControls/structuredHouseRulesWithTips/3/text,Table: structured_house_rules_with_tips,One:Many,3
