@@ -1,0 +1,99 @@
+import pandas as pd
+from utils import *
+from creds import *
+from sqlalchemy import create_engine
+import mysql.connector
+
+
+def pull_field_actions_df():
+    field_actions = pd.read_csv(field_actions_csv_path)
+    field_actions["Field"] = field_actions["Field"].apply(
+        replace_slashes_by_underscores
+    )
+    field_actions["Action"] = field_actions["Action"].apply(remove_table_prefix)
+    field_actions = field_actions[field_actions["Action"] != "PRIMARY KEY"]
+    field_actions = field_actions[field_actions["Action"] != "Do Not Import"]
+    print("Fielad Actions DF:\n", field_actions.head(3))
+    return field_actions
+
+
+def get_tables_columns_dict(field_actions: pd.DataFrame):
+    tables_columns = {}
+    for i, row in field_actions.iterrows():
+        action = row["Action"]
+        field = row["Field"]
+        field = replace_slashes_by_underscores(to_snake_case(field))
+        processing_action = row["Processing Action"]
+        if action not in tables_columns:
+            tables_columns[action] = {}
+            tables_columns[action]["columns"] = []
+            tables_columns[action]["columns"].append("guid")
+            tables_columns[action]["one-to-many"] = processing_action == "One:Many"
+
+        tables_columns[action]["columns"].append(field)
+    print("Tables: \n", tables_columns.keys())
+    return tables_columns
+
+
+def get_scraped_data_df():
+    airbnb_scrape = pd.read_csv("input/airbnb_scrape_2023_12_09.csv")
+    airbnb_scrape.columns = map(to_snake_case, airbnb_scrape.columns)
+    airbnb_scrape.columns = map(replace_slashes_by_underscores, airbnb_scrape.columns)
+    airbnb_scrape.rename(columns={"id_str": "guid"}, inplace=True)
+    print("Number of Columns: ", len(airbnb_scrape.columns))
+    print("Number of Unique Columns: ", len(airbnb_scrape.columns.unique()))
+    return airbnb_scrape
+
+
+def normalize_data_model(tables_columns: dict, airbnb_parent_df: pd.DataFrame):
+    child_tables = {}
+    for table_name in tables_columns:
+        child_table_df = airbnb_parent_df[tables_columns[table_name]["columns"]]
+        child_tables[table_name] = (
+            child_table_df,
+            tables_columns[table_name]["one-to-many"],
+        )
+    return child_tables
+
+
+def pivot_one_to_many_tables(child_tables: dict):
+    for table_name in child_tables:
+        is_one_to_many = child_tables[table_name][1]
+        if is_one_to_many:
+            df = child_tables[table_name][0]
+            print(table_name)
+            melted_df = pd.melt(
+                df, id_vars=["guid"], var_name="column", value_name="value"
+            )
+            melted_df[f"{table_name}_number"] = melted_df["column"].apply(
+                extract_first_number
+            )
+            melted_df["column"] = melted_df["column"].apply(
+                remove_number_between_underscroes
+            )
+            melted_df_pivoted = melted_df.pivot(
+                index=["guid", f"{table_name}_number"], columns="column", values="value"
+            ).reset_index()
+            child_tables[table_name] = (melted_df_pivoted, True)
+    return child_tables
+
+
+def write_tables_in_mysql(tables, black_list_tables: list = []):
+    connection = mysql.connector.connect(**db_config)
+    engine = create_engine(f"mysql+mysqlconnector://{user}:{password}@{host}/{DB}")
+    for table_name in tables:
+        if table_name in black_list_tables:
+            continue
+        df = tables[table_name][0]
+        print(f"Writing table {table_name}...")
+        df.to_sql(table_name, con=engine, if_exists="replace", index=False)
+    connection.close()
+
+
+if __name__ == "__main__":
+    actions_df = pull_field_actions_df()
+    tables_columns = get_tables_columns_dict(actions_df)
+    airbnb_parent_df = get_scraped_data_df()
+    child_tables = normalize_data_model(tables_columns, airbnb_parent_df)
+    treated_child_tables = pivot_one_to_many_tables(child_tables)
+    write_tables_in_mysql(treated_child_tables)
