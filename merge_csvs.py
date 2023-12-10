@@ -1,9 +1,10 @@
 import os
 import pandas as pd
 
+
 def merge_csv_files(directory_path):
     # Get a list of all CSV files in the specified directory
-    csv_files = [file for file in os.listdir(directory_path) if file.endswith('.csv')]
+    csv_files = [file for file in os.listdir(directory_path) if file.endswith(".csv")]
 
     # Check if there are any CSV files in the directory
     if not csv_files:
@@ -26,12 +27,15 @@ def merge_csv_files(directory_path):
             print(f"Error reading {csv_file}: {e}")
 
     # Save the merged DataFrame to a new CSV file
-    merged_data.to_csv(os.path.join(output_directory_path, 'merged_data.csv'), index=False)
+    merged_data.to_csv(
+        os.path.join(output_directory_path, "merged_data.csv"), index=False
+    )
     print("Merged data saved to merged_data.csv")
 
+
 # Specify the directory path where the CSV files are located
-input_directory_path = 'input'
-output_directory_path = 'output'
+input_directory_path = "input"
+output_directory_path = "output"
 
 # Call the function to merge the CSV files
 merge_csv_files(input_directory_path)
