@@ -74,6 +74,30 @@ def pivot_one_to_many_tables(child_tables: dict):
             melted_df_pivoted = melted_df.pivot(
                 index=["guid", f"{table_name}_number"], columns="column", values="value"
             ).reset_index()
+            if table_name == "listing_rooms":
+                print("transforming listing_rooms")
+                melted_df_2 = pd.melt(
+                    melted_df_pivoted, id_vars=["guid", "listing_rooms_number"], var_name="column", value_name="value"
+                )
+                melted_df_2 = melted_df_2.dropna()
+                melted_df_2[f"listing_rooms_room_number_id"] = melted_df_2["column"].apply(
+                    extract_first_number
+                )
+                melted_df_2["column"] = melted_df_2["column"].apply(
+                    remove_number_between_underscroes
+                )
+                melted_df_pivoted_2 = melted_df_2.pivot(
+                    index=["guid","listing_rooms_number" ,"listing_rooms_room_number_id"], columns="column", values="value"
+                ).reset_index()
+                melted_df_pivoted_2 = melted_df_pivoted_2.set_index("guid", append=True)
+                melted_df_pivoted_2 = melted_df_pivoted_2.groupby("guid", as_index=False).ffill()
+                melted_df_pivoted_2 = melted_df_pivoted_2.reset_index()
+                #melted_df_pivoted_2 = melted_df_pivoted_2.drop_duplicates('guid', keep='last')
+                melted_df_pivoted_2 = melted_df_pivoted_2.iloc[:, 1:]
+                melted_df_pivoted_2 = melted_df_pivoted_2[["guid","listing_rooms_number","listing_rooms_id","listing_rooms_room_number", "listing_rooms_beds_id", "listing_rooms_beds_type"]]
+                melted_df_pivoted_2 = melted_df_pivoted_2.dropna()
+                child_tables[table_name] = (melted_df_pivoted_2, True)
+                continue
             child_tables[table_name] = (melted_df_pivoted, True)
     return child_tables
 
