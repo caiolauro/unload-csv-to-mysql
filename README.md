@@ -60,3 +60,7 @@ This module contains utility functions used in the main script:
 5. Run the `main.py` script to execute the data processing pipeline.
 
 Note: Make sure to customize the input and output paths as needed for your specific use case.
+
+## Connecting to DB
+
+mysql -h visithmt.cquajs1oviiz.us-east-2.rds.amazonaws.com -u visithmtadmin
