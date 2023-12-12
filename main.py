@@ -132,11 +132,17 @@ def pivot_one_to_many_tables(child_tables: dict):
                     "listing_rooms_room_number",
                     "listing_rooms_beds_id",
                     "listing_rooms_beds_type",
-                    "listing_rooms_beds_quantity"
+                    "listing_rooms_beds_quantity",
                 ]
                 listing_rooms_final = merged_lvl_1_and_2[listing_rooms_final_columns]
-                listing_rooms_final = listing_rooms_final.loc[listing_rooms_final.index.repeat(listing_rooms_final['listing_rooms_beds_quantity'])].reset_index(drop=True)
-                listing_rooms_final = listing_rooms_final.drop(columns=["listing_rooms_beds_quantity"])
+                listing_rooms_final = listing_rooms_final.loc[
+                    listing_rooms_final.index.repeat(
+                        listing_rooms_final["listing_rooms_beds_quantity"]
+                    )
+                ].reset_index(drop=True)
+                listing_rooms_final = listing_rooms_final.drop(
+                    columns=["listing_rooms_beds_quantity"]
+                )
                 child_tables[table_name] = (listing_rooms_final, True)
                 continue
             child_tables[table_name] = (melted_df_pivoted, True)
