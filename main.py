@@ -61,7 +61,6 @@ def pivot_one_to_many_tables(child_tables: dict):
         is_one_to_many = child_tables[table_name][1]
         if is_one_to_many:
             df = child_tables[table_name][0]
-            print(table_name)
             melted_df = pd.melt(
                 df, id_vars=["guid"], var_name="column", value_name="value"
             )
@@ -75,28 +74,70 @@ def pivot_one_to_many_tables(child_tables: dict):
                 index=["guid", f"{table_name}_number"], columns="column", values="value"
             ).reset_index()
             if table_name == "listing_rooms":
-                print("transforming listing_rooms")
-                melted_df_2 = pd.melt(
-                    melted_df_pivoted, id_vars=["guid", "listing_rooms_number"], var_name="column", value_name="value"
+                listing_rooms_lvl_1_columns = [
+                    "listing_rooms_number",
+                    "listing_rooms_room_number",
+                    "listing_rooms_id",
+                ]
+                listing_rooms_lvl_1 = melted_df_pivoted[
+                    ["guid"] + listing_rooms_lvl_1_columns
+                ]
+                listing_rooms_lvl_1 = listing_rooms_lvl_1.dropna()
+                listing_rooms_lvl_2 = melted_df_pivoted.drop(
+                    columns=listing_rooms_lvl_1_columns
                 )
-                melted_df_2 = melted_df_2.dropna()
-                melted_df_2[f"listing_rooms_room_number_id"] = melted_df_2["column"].apply(
-                    extract_first_number
+                listing_rooms_lvl_2 = (
+                    listing_rooms_lvl_2.set_index("guid")
+                    .dropna(how="all")
+                    .reset_index()
                 )
-                melted_df_2["column"] = melted_df_2["column"].apply(
-                    remove_number_between_underscroes
+                listing_rooms_lvl_2["listing_rooms_id"] = listing_rooms_lvl_2[
+                    "listing_rooms_beds_0_id"
+                ].apply(lambda x: int(x.split("/")[0]))
+
+                listing_rooms_lvl_2_melted_df = pd.melt(
+                    listing_rooms_lvl_2,
+                    id_vars=["guid", "listing_rooms_id"],
+                    var_name="column",
+                    value_name="value",
+                    ignore_index=True,
                 )
-                melted_df_pivoted_2 = melted_df_2.pivot(
-                    index=["guid","listing_rooms_number" ,"listing_rooms_room_number_id"], columns="column", values="value"
-                ).reset_index()
-                melted_df_pivoted_2 = melted_df_pivoted_2.set_index("guid", append=True)
-                melted_df_pivoted_2 = melted_df_pivoted_2.groupby("guid", as_index=False).ffill()
-                melted_df_pivoted_2 = melted_df_pivoted_2.reset_index()
-                #melted_df_pivoted_2 = melted_df_pivoted_2.drop_duplicates('guid', keep='last')
-                melted_df_pivoted_2 = melted_df_pivoted_2.iloc[:, 1:]
-                melted_df_pivoted_2 = melted_df_pivoted_2[["guid","listing_rooms_number","listing_rooms_id","listing_rooms_room_number", "listing_rooms_beds_id", "listing_rooms_beds_type"]]
-                melted_df_pivoted_2 = melted_df_pivoted_2.dropna()
-                child_tables[table_name] = (melted_df_pivoted_2, True)
+                listing_rooms_lvl_2_melted_df[
+                    f"room_number"
+                ] = listing_rooms_lvl_2_melted_df["column"].apply(extract_first_number)
+                listing_rooms_lvl_2_melted_df["column"] = listing_rooms_lvl_2_melted_df[
+                    "column"
+                ].apply(remove_number_between_underscroes)
+
+                listing_rooms_lvl_2_melted_df_pivoted = (
+                    listing_rooms_lvl_2_melted_df.pivot(
+                        index=["guid", "listing_rooms_id", "room_number"],
+                        columns="column",
+                        values="value",
+                    )
+                    .reset_index()
+                    .dropna()
+                )
+                merged_lvl_1_and_2 = pd.merge(
+                    listing_rooms_lvl_1,
+                    listing_rooms_lvl_2_melted_df_pivoted,
+                    on=["guid", "listing_rooms_id"],
+                    how="left",
+                )
+                print(merged_lvl_1_and_2.head(3))
+                listing_rooms_final_columns = [
+                    "guid",
+                    "listing_rooms_number",
+                    "listing_rooms_id",
+                    "listing_rooms_room_number",
+                    "listing_rooms_beds_id",
+                    "listing_rooms_beds_type",
+                    "listing_rooms_beds_quantity"
+                ]
+                listing_rooms_final = merged_lvl_1_and_2[listing_rooms_final_columns]
+                listing_rooms_final = listing_rooms_final.loc[listing_rooms_final.index.repeat(listing_rooms_final['listing_rooms_beds_quantity'])].reset_index(drop=True)
+                listing_rooms_final = listing_rooms_final.drop(columns=["listing_rooms_beds_quantity"])
+                child_tables[table_name] = (listing_rooms_final, True)
                 continue
             child_tables[table_name] = (melted_df_pivoted, True)
     return child_tables
@@ -108,9 +149,10 @@ def write_tables_in_mysql(tables, black_list_tables: list = []):
     for table_name in tables:
         if table_name in black_list_tables:
             continue
-        df = tables[table_name][0]
-        print(f"Writing table {table_name}...")
-        df.to_sql(table_name, con=engine, if_exists="replace", index=False)
+        if table_name == "listing_rooms":
+            df = tables[table_name][0]
+            print(f"Writing table {table_name}...")
+            df.to_sql(table_name, con=engine, if_exists="replace", index=False)
     connection.close()
 
 
