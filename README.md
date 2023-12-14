@@ -61,6 +61,9 @@ This module contains utility functions used in the main script:
 
 Note: Make sure to customize the input and output paths as needed for your specific use case.
 
+## Download image performance
+  ( 4233 - 3878 ) / 60 = 6 images/second
+   13000 / 6 = 36 min
 ## Connecting to DB
 
 mysql -h visithmt.cquajs1oviiz.us-east-2.rds.amazonaws.com -u visithmtadmin
