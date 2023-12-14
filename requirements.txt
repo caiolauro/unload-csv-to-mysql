@@ -1,3 +1,7 @@
 pandas==2.1.4
 SQLAlchemy==2.0.23
 mysql-connector-python==8.2.0
+
+# Images scrape process
+requests==2.28.2
+Pillow >= 9.3
