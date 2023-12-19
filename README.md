@@ -2,6 +2,9 @@
 
 This repository contains scripts for processing and transforming Airbnb scraped data and writing it into a MySQL database.
 
+
+<img src="imgs/unloadCsvToMySQL.png" alt="drawing" width="400" height="400"/>
+
 ## Scripts
 
 ### `main.py`
