@@ -1,9 +1,17 @@
 import pandas as pd
-from utils import *
+from utils import (
+    replace_slashes_by_underscores,
+    remove_table_prefix,
+    to_snake_case,
+    extract_first_number,
+    remove_number_between_underscroes,
+)
 from creds import *
 from sqlalchemy import create_engine
 import mysql.connector
 
+field_actions_csv_path = "input/field_actions.csv"
+airbnb_scraped_csv = "input/2024_01_31_airbnb_scraper_data_set.csv"
 
 def pull_field_actions_df():
     field_actions = pd.read_csv(field_actions_csv_path)
@@ -36,7 +44,7 @@ def get_tables_columns_dict(field_actions: pd.DataFrame):
 
 
 def get_scraped_data_df():
-    airbnb_scrape = pd.read_csv("input/airbnb_scrape_2023_12_09.csv")
+    airbnb_scrape = pd.read_csv(airbnb_scraped_csv)
     airbnb_scrape.columns = map(to_snake_case, airbnb_scrape.columns)
     airbnb_scrape.columns = map(replace_slashes_by_underscores, airbnb_scrape.columns)
     airbnb_scrape.rename(columns={"id_str": "guid"}, inplace=True)
@@ -153,12 +161,17 @@ def write_tables_in_mysql(tables, black_list_tables: list = []):
     connection = mysql.connector.connect(**db_config)
     engine = create_engine(f"mysql+mysqlconnector://{user}:{password}@{host}/{DB}")
     for table_name in tables:
+        airbnb_table_name = f"airbnb_{table_name}"
         if table_name in black_list_tables:
             continue
         if table_name == "listing_rooms":
             df = tables[table_name][0]
-            print(f"Writing table {table_name}...")
-            df.to_sql(table_name, con=engine, if_exists="replace", index=False)
+            print(f"Writing table {airbnb_table_name}...")
+            df.to_sql(airbnb_table_name, con=engine, if_exists="replace", index=False)
+        else:
+            df = tables[table_name][0]
+            print(f"Writing table {airbnb_table_name}...")
+            df.to_sql(airbnb_table_name, con=engine, if_exists="replace", index=False)
     connection.close()
 
 
