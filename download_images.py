@@ -4,6 +4,7 @@ import requests
 from PIL import Image
 from concurrent.futures import ThreadPoolExecutor
 
+
 def download_image(row):
     guid, download_url, save_as_name = row
 
@@ -20,18 +21,22 @@ def download_image(row):
                 img.save(save_path)
             return save_as_name, True
         else:
-            print(f'Request issue - Image {save_as_name} couldn\'t be retrieved')
+            print(f"Request issue - Image {save_as_name} couldn't be retrieved")
             return save_as_name, False
     except Exception as e:
         print(e)
         return save_as_name, False
+
 
 if __name__ == "__main__":
     images_to_scrape_df = pd.read_csv("input/images_to_scrape.csv")
     list_of_failed_downloads = []
 
     with ThreadPoolExecutor(max_workers=100) as executor:
-        futures = [executor.submit(download_image, row) for _, row in images_to_scrape_df.iterrows()]
+        futures = [
+            executor.submit(download_image, row)
+            for _, row in images_to_scrape_df.iterrows()
+        ]
 
         for future in futures:
             save_as_name, success = future.result()
