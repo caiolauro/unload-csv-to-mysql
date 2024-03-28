@@ -58,7 +58,7 @@ This module contains utility functions used in the main script:
 
 1. Ensure you have the required dependencies installed (`pandas`, `mysql-connector-python`, `sqlalchemy`).
 2. Set up your MySQL database and update the credentials in the `creds.py` file.
-3. Place the field actions CSV file in the `input` directory.
+3. Place the field_actions.csv file in the `input` directory; field_actions.csv must be updated to match the scraped data file (item 4). 
 4. Place the Airbnb scraped data CSV file in the `input` directory.
 5. Run the `main.py` script to execute the data processing pipeline.
 
